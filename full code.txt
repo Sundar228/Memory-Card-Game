@@ -60,7 +60,7 @@ index.html :
 </html>
 
 
-selection.html :
+select.html :
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
